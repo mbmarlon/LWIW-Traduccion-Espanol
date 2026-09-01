@@ -42,6 +42,10 @@ reaplique sobre los textos nuevos.
 Instrucciones completas, como revertir a ingles, y que hacer tras una actualizacion de
 Steam: ver `LEEME.md` dentro del archivo descargado.
 
+### Codigo fuente
+https://github.com/mbmarlon/LWIW-Traduccion-Espanol (repo publico — el instalador es
+texto plano, revisable antes de ejecutarlo).
+
 ### Requisitos
 - Windows
 - Python 3.10 o superior
@@ -52,7 +56,15 @@ recibe una actualizacion y algun texto vuelve a aparecer en ingles, vuelve a eje
 el instalador con `--actualizar-backup` (ver LEEME.md).
 
 ### Creditos
-Traduccion: [TU NOMBRE / NICK AQUI]
+Traduccion: [TU NOMBRE / NICK AQUI] — decisiones de glosario, tono y direccion.
+Redaccion del grueso del texto asistida por Claude (Anthropic).
+
+## Etiqueta de IA obligatoria en Nexus
+Marcar como **"AI-Generated Content"** (no "AI Assisted" — esa es solo para "limited AI
+involvement" y Nexus puede pedirte que demuestres desarrollo humano si la usas mal).
+"AI-Generated Content" incluye explicitamente "translations" en su propia definicion,
+asi que es la etiqueta correcta aqui. No es un mod prohibido: Nexus permite contenido
+con IA, solo exige que se etiquete bien.
 
 ## Categoria sugerida
 Traducciones / Translations
